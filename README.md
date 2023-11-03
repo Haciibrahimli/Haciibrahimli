@@ -8,6 +8,7 @@
 - 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **haci.ibrahimli@gmail.com**
+- <img align="right" alt="coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

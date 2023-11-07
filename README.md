@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **haci.ibrahimli@gmail.com**
-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techslang.com%2Fdefinition%2Fwhat-is-a-python-developer%2F&psig=AOvVaw22tQ9xRzdSOqmh5EX1f8AK&ust=1699468705988000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDQ073EsoIDFQAAAAAdAAAAABAE">
+- <img align="right" alt="coding" width="400" src="https://www.techslang.com/wp-content/uploads/2020/06/Python-1024x536.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
